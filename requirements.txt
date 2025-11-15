@@ -13,4 +13,4 @@ isort>=5.12.0
 
 # Type stubs
 pandas-stubs>=2.0.0
-types-matplotlib>=3.7.0
+types-matplotlib
